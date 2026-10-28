@@ -2,7 +2,7 @@
 
 > iPhone and iPad app with 35 original, narrated bedtime stories for children aged 6–10. Read-along text highlighted line by line, sleep timer, offline playback, plays with the screen locked. No ads, no accounts, no tracking. Free download with 8 free stories; one-time $4.99 unlock for all 35 (no subscription). Made by Cowork Game Studio.
 
-- [About the app and full story list](https://tvlgiao.github.io/robin-legal/bedtime-stories/)
+- [About the app and full story list](https://robinbedtime.coworkgamestudio.com/bedtime-stories/)
 - [App Store](https://apps.apple.com/app/id6777299933)
-- [Support](https://tvlgiao.github.io/robin-legal/support/)
-- [Privacy Policy](https://tvlgiao.github.io/robin-legal/)
+- [Support](https://robinbedtime.coworkgamestudio.com/support/)
+- [Privacy Policy](https://robinbedtime.coworkgamestudio.com/)
