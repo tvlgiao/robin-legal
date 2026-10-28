@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robinbedtime.coworkgamestudio.com/sitemap.xml
